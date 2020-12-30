@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "type": "plain",
+    "entry": {
+      "js": "./script/main.js",
+      "html": "./index.html"
+    },
+    "size": {
+      "width": 650,
+      "height": 200
+    }
+  },
+  "content": {
+    "text": "Welcome to this Banner!",
+    "cta": "Click here",
+    "bgcolor": "#FF0000"
+  }
+}
